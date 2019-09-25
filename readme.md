@@ -10,7 +10,7 @@ itur dari mahasiswa app ini adalah
     * jam brapa
     * hari apa
     * dosen siapa
-    * setan apa..????
+    
 ## Mobile
 Fitur dari mobile mahasiswa app ini adalah
 1. Mahasiswa dapat melihat kelas yang diambil
