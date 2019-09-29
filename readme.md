@@ -1,17 +1,23 @@
-# Mahasiswa App
-Sistem informasi Mahasiswa ini berfungsi untuk mencatat
-data **mahasiswa** dan **kelas** masing masing
+# Sistem Informasi Cari Kost
+Sistem informasi Cari kos ini berfungsi untuk mempermudah Masyarakat terutama Mahasiswa atau Pekerja untuk menemukan tempat Kost, sesuai dengan Kriteria Kost yang mereka inginkan. 
 
+# User
+        * Admin
+	    * Pelanggan
 ## Web
-itur dari mahasiswa app ini adalah
-1. Mencatatat data mahasiswa
-2. Mencatat data kelas
-3. mencatat informasi mahasiswa mengambil kelas apa
-    * jam brapa
-    * hari apa
-    * dosen siapa
-    
+Admin : 
+- Login
+- Input Data pesanan pelanggan
+	- Notifikasi Email informasi Kost ke pelanggan
+- Cek Kost yang masih kosong
+- Jika masih ada kost Kosong
+	- Notifikasi Email ke Pelanggan
+- Verfikasi Pesanan
+- Fitur Hubungi kami
 ## Mobile
-Fitur dari mobile mahasiswa app ini adalah
-1. Mahasiswa dapat melihat kelas yang diambil
-2. Mahasiswa bisa melihat diri sendiri
+Pelanggan :
+- Login
+- Rubah Password
+- Cek informasi Kost
+- Fitur Hubungi Kami
+	- Notifikasi Email ke Admin jika kriteria Kost cocok
